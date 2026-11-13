@@ -11,7 +11,7 @@ Currently looking for junior roles or graduate positions in **Data Science, Quan
 
 #### 📌 Highlighted Projects
 * **[Ising model simulation](./):** *BSc thesis on Markov Chain Monte Carlo (MCMC) algorithms to simulate phase transitions and critical phenomena in the 2D Ising model using MATLAB*.
-* **[GLS method for PDE transport problem](./gls-transport-fem):** *FEM implementation for solving stationary convection-diffusion partial differential equations using the Galerkin Least Squares (GLS) method in MATLAB*.
+* **[GLS method for PDE transport problem](https://github.com/Sim0nfh/gls-transport-fem):** *FEM implementation for solving stationary convection-diffusion partial differential equations using the Galerkin Least Squares (GLS) method in MATLAB*.
 
 #### 📫 Get in touch
 * Connect with me on [LinkedIn](https://linkedin.com/in/simon-fog-hansen)
