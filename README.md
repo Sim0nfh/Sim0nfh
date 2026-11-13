@@ -2,18 +2,18 @@
 
 I recently graduated with a **BSc in Applied Mathematics** from the University of Southern Denmark (SDU). I enjoy bridging mathematical theory and practical programming to solve problems within data analysis, optimization, and statistical modeling.
 
-Currently looking for junior roles or graduate positions in **Data Science, Quantitative Analysis, Mathematical Modeling or Business Intelligence**.
+
+#### 📌 Highlighted Projects:
+* **[Ising model simulation](https://github.com/Sim0nfh/ising-model-monte-carlo/):** *BSc thesis on Markov Chain Monte Carlo (MCMC) algorithms to simulate phase transitions and critical phenomena in the 2D Ising model using MATLAB*.
+* **[GLS method for PDE transport problem](https://github.com/Sim0nfh/gls-transport-fem):** *FEM implementation for solving stationary convection-diffusion partial differential equations using the Galerkin Least Squares (GLS) method in MATLAB*.
+
 
 #### 🛠 Technical Toolbox
 * **Languages:** Python (NumPy, SciPy), R, SQL, MATLAB
 * **Mathematical Focus:** Optimization, Stochastic Processes, Numerical Analysis, Machine Learning
 * **Tools:** Git, LaTeX,
 
-#### 📌 Highlighted Projects
-* **[Ising model simulation](./):** *BSc thesis on Markov Chain Monte Carlo (MCMC) algorithms to simulate phase transitions and critical phenomena in the 2D Ising model using MATLAB*.
-* **[GLS method for PDE transport problem](https://github.com/Sim0nfh/gls-transport-fem):** *FEM implementation for solving stationary convection-diffusion partial differential equations using the Galerkin Least Squares (GLS) method in MATLAB*.
-
-#### 📫 Get in touch
+#### 📫 How to reach me:
 * Connect with me on [LinkedIn](https://linkedin.com/in/simon-fog-hansen)
 * Reach out via email: [simonfh@outlook.dk](mailto:simonfh@outlook.dk)
 
